@@ -25,13 +25,13 @@ The project involved experimenting with multiple medical imaging datasets, compa
 
 ## 📂 Repository Contents
 
-### `notebooks/`
+### `Notebooks`
 Jupyter notebooks containing the dataset processing, model experimentation, evaluation, and optimization work.
 
-### `research-paper/`
+### `Research-paper`
 LaTeX source files for the research-paper documentation.
 
-### `figures/`
+### `Figures-Documentation`
 Architecture diagrams, graphs, and other visual results generated during the experiments.
 
 ## 📊 Datasets
